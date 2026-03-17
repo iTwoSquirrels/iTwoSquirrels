@@ -1,5 +1,4 @@
-~/source/twosquirrels $ curl 'localhost:8080/my-profile.yaml' | bat -l yaml
-name: りすりす/TwoSquirrels
+
 age: 19
 birthday: 03/19
 hobbies:
